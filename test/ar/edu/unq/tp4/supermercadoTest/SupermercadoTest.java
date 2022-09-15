@@ -1,3 +1,5 @@
+package ar.edu.unq.tp4.supermercadoTest;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
