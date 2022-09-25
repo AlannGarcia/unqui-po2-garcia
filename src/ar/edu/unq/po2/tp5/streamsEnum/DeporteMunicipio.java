@@ -1,13 +1,13 @@
-package tp6;
+package ar.edu.unq.po2.tp5.streamsEnum;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class deporteMunicipio {
+public class DeporteMunicipio {
 	List<ActividadSemanal> listaActividades;
 	
 	
-	public deporteMunicipio() {
+	public DeporteMunicipio() {
 		this.setListaActividades(new ArrayList<ActividadSemanal>());
 		
 	}

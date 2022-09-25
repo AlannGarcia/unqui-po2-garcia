@@ -1,4 +1,5 @@
-package ar.unq.poo2.tp5.ej1;
+package ar.edu.unq.po2.tp5.interfaces;
+
 
 public class Factura implements Facturable{
 	private double costo;
