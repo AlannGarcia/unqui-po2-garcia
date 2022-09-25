@@ -3,6 +3,8 @@ package ar.edu.unq.tp4.supermercadoTest;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import ar.unq.poo2.tp5.ej1.Producto;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class ProductoTest {

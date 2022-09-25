@@ -1,4 +1,4 @@
-package openClosedPrinciple.caso1;
+package ar.edu.unq.po2.tp6.punto1;
 
 import java.util.ArrayList;
 
